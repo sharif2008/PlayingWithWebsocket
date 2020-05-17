@@ -1,4 +1,4 @@
-# websocket
+# Playing with WebSocket in plain JSP
 
 
 Broadcast a message in java websocket
